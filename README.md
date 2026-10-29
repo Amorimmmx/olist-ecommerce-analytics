@@ -36,7 +36,7 @@ No dashboard encontram-se as principais métricas e indicadores que permitem uma
 
 > O gráfico de evolução dos pedidos mostra o período de janeiro de 2017 a agosto de 2018. Os demais visuais e os cartões consideram todos os pedidos, a partir de 2016.
 
-[Confira aqui o dashboard do projeto.](https://app.powerbi.com/groups/me/reports/d7a6ed5f-dfc4-45e8-83f2-c60fa370f4d1/639fae79b2f8299f44d9?experience=power-bi)
+## [Confira aqui o dashboard do projeto.](https://app.powerbi.com/groups/me/reports/d7a6ed5f-dfc4-45e8-83f2-c60fa370f4d1/639fae79b2f8299f44d9?experience=power-bi)
 
 ### Apresentação em PDF:
 
