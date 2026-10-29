@@ -40,7 +40,7 @@ No dashboard encontram-se as principais métricas e indicadores que permitem uma
 
 ### Apresentação em PDF:
 
-O arquivo [apresentacao_projeto.pdf](apresentacao_projeto.pdf) traz um resumo das principais perguntas de negócio, com as respostas e os gráficos do dashboard.
+O arquivo [apresentacao_projeto.pdf](presentacao_projeto.pdf.pdf) traz um resumo das principais perguntas de negócio, com as respostas e os gráficos do dashboard.
 
 ## Ferramentas
 
