@@ -46,7 +46,7 @@ O arquivo [apresentacao_projeto.pdf](apresentacao_projeto.pdf) traz um resumo da
 
 Para a execução dessa análise, foram utilizadas algumas ferramentas, tais quais:
 
-- **MySQL**: Os indicadores foram calculados com consultas SQL no *MySQL Workbench*, criando o banco `olist_analytics` e importando os dados dos pedidos. As consultas cobrem total de pedidos por status, cancelamentos, entregas no prazo e com atraso, tempo médio de entrega e análises por mês e por ano.
+- **MySQL**: Os indicadores foram calculados com consultas SQL no *MySQL Workbench*, criando o banco `olist_analytics` e importando os dados dos pedidos. As consultas cobrem total de pedidos por status, cancelamentos, entregas no prazo e com atraso, tempo médio de entrega e análises por mês e por ano. O script completo está em [consultas_sql](consultas_sql/consultas_sql.sql).
 - **Microsoft Power BI**: O dashboard do projeto foi construído com o uso do software, com a necessidade da criação de algumas funções em DAX para a construção das visualizações.
 - **Microsoft PowerPoint**: Confecção da apresentação com o resumo das perguntas de negócio.
 - **Kaggle**: Fonte dos dados utilizados no projeto.
@@ -72,3 +72,7 @@ O *transporte* concentra **74%** do tempo total (9,3 dias), seguido pela *prepar
 #### 5. Quantos pedidos não chegaram ao cliente e em que situação estão?
 
 Os pedidos entregues representam **97%** da base (96.478 pedidos). Os outros **2.963 pedidos** não chegaram ao cliente, e os status mais comuns entre eles são *enviado* (1.107), *cancelado* (625) e *indisponível* (609). Somando cancelados e indisponíveis, são **1.234 pedidos**. O dataset informa o status do pedido, mas não o motivo.
+
+#### 6. Como o desempenho varia entre os estados?
+
+[Escolha alguns estados no filtro Estado e descreva o que mudou: volume de pedidos, tempo médio e percentual de atraso.]
