@@ -1,6 +1,6 @@
 # Projeto de Análise de Dados - Olist
 
-![Análise de Pedidos e Entregas - Olist](images/banner.png)
+![Análise de Pedidos e Entregas - Olist](img/banner.png)
 
 Este projeto consiste em uma análise de dados de pedidos e entregas do comércio eletrônico brasileiro, a partir do dataset público da Olist. O foco é entender o volume de pedidos e o desempenho das entregas.
 
