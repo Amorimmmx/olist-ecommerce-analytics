@@ -73,6 +73,6 @@ O *transporte* concentra **74%** do tempo total (9,3 dias), seguido pela *prepar
 
 Os pedidos entregues representam **97%** da base (96.478 pedidos). Os outros **2.963 pedidos** não chegaram ao cliente, e os status mais comuns entre eles são *enviado* (1.107), *cancelado* (625) e *indisponível* (609). Somando cancelados e indisponíveis, são **1.234 pedidos**. O dataset informa o status do pedido, mas não o motivo.
 
-#### 6. Como o desempenho varia entre os estados?
 
-[Escolha alguns estados no filtro Estado e descreva o que mudou: volume de pedidos, tempo médio e percentual de atraso.]
+
+
