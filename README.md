@@ -22,7 +22,7 @@ O esquema original do dataset é distribuído em oito tabelas, com informações
 
 O modelo lógico do banco de dados é apresentado no seguinte formato:
 
-![Esquema do dataset Olist](images/esquema_olist.png)
+![Esquema do dataset Olist](img/esquema_olist.jpeg)
 
 ## Apresentação
 
