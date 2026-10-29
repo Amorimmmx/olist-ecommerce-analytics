@@ -32,7 +32,7 @@ A análise é apresentada em duas frentes:
 
 No dashboard encontram-se as principais métricas e indicadores que permitem uma compreensão do desempenho de pedidos e entregas.
 
-![Dashboard](images/dashboard.png)
+![Dashboard](img/dash.png)
 
 > O gráfico de evolução dos pedidos mostra o período de janeiro de 2017 a agosto de 2018. Os demais visuais e os cartões consideram todos os pedidos, a partir de 2016.
 
